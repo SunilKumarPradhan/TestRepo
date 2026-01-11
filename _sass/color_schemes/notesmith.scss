@@ -1,15 +1,27 @@
-// NoteSmith Color Scheme
-// ======================
+// NoteSmith AMOLED Dark Theme - Sky Blue Glow
+// ============================================
 
-$link-color: #7c3aed;
-$sidebar-color: #1e1e2e;
+// Primary accent - Glowing Sky Blue
+$link-color: #00d4ff;
+
+// Sidebar - True Black
+$sidebar-color: #000000;
 $nav-child-link-color: #a0a0a0;
 $search-result-preview-color: #888;
 
-// Dark mode adjustments
-$body-background-color: #0f0f0f;
-$body-heading-color: #f0f0f0;
-$body-text-color: #d0d0d0;
-$code-background-color: #1a1a1a;
-$table-background-color: #1a1a1a;
-$search-background-color: #1a1a1a;
+// True AMOLED Black
+$body-background-color: #000000;
+$body-heading-color: #ffffff;
+$body-text-color: #e0e0e0;
+$code-background-color: #0a0a0a;
+$table-background-color: #0a0a0a;
+$search-background-color: #0a0a0a;
+
+// Button colors
+$btn-primary-color: #00d4ff;
+
+// Border and accents
+$border-color: #1a1a1a;
+
+// Glow effect for links
+$link-hover-color: #40e0ff;
